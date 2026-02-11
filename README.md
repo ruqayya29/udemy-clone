@@ -27,6 +27,7 @@ The purpose of this project is to practice:
 - Front-end design structure
 
 ## 🌐 Live Preview
+   Click here to view the project:  https://ruqayya29.github.io/udemy-clone/
 
 
 
